@@ -15,7 +15,7 @@
     
 - **ارسال**: به Elasticsearch می‌فرسته تا ذخیره بشن.
     
-
+---
 
 
 > <img  width="100%" alt="logstash" src="https://github.com/user-attachments/assets/bc2d3d46-f10b-4234-82fd-a3ec2e666b9e" />
