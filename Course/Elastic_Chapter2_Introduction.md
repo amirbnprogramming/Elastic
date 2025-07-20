@@ -48,8 +48,10 @@
 >- اما در مقیاس پذیری افقی دستمون بازه همه جوره و اینکه هزینه ها به نسبت مقیاس پذیری عمودی، افزایش نمیابد.
 >- ابزار Elasticsearch از مقیاس‌پذیری افقی استفاده می‌کنه و این باعث می‌شه خیلی انعطاف‌پذیرتر باشه.
 
+> <img width="100%" alt="lucene query" src="https://github.com/user-attachments/assets/ba10b41d-a1a8-4e75-9be3-c7b5ca4b0b73" />
 
 
+---
 ### ❓ چرا دیتابیس‌های سنتی نه
 ### مقایسه Elasticsearch با MySQL:
 | ویژگی         | MySQL              | Elasticsearch        |
@@ -62,6 +64,4 @@
 **مثال کاربردی**: 
 - در MySQL جستجوی `SELECT * FROM logs WHERE message LIKE '%error%'` روی ۱۰۰ میلیون رکورد ممکن است **دقیقه‌ها** طول بکشد.
 - در Elasticsearch همان جستجو **کمتر از ۱ ثانیه** زمان می‌برد!
-
-> <img width="100%" alt="lucene query" src="https://github.com/user-attachments/assets/ba10b41d-a1a8-4e75-9be3-c7b5ca4b0b73" />
 
