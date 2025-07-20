@@ -1,4 +1,4 @@
-# آموزش دنیای الستیک - قسمت چهارم قسمت های مختلف الستیک
+<img width="1000" height="300" alt="Untitled-2" src="https://github.com/user-attachments/assets/e40e001d-45fb-4403-902e-498ab1283a68" /># آموزش دنیای الستیک - قسمت چهارم قسمت های مختلف الستیک
 
 ## اجزای اصلی Elastic Stack چیست؟
 
@@ -27,8 +27,8 @@ Beats (جمع‌آوری) → Logstash (پردازش) → Elasticsearch (ذخی�
 
 > <img width="100%" alt="1_5mWqMkmUb1Q_46jMhJfrXw" src="https://github.com/user-attachments/assets/e875bd10-581f-4ee2-a433-3e54da210303" />
 
-> <img width="50%" style="display: inline-block" alt="image" src="https://github.com/user-attachments/assets/dd80bbc4-9a83-4424-a6c5-5ced04157c55" />
-> <img width="50%" style="display: inline-block" alt="0_aagE1TR9XyE3ensn" src="https://github.com/user-attachments/assets/50cee2df-213d-4bfd-bf66-6829008459cb" />
+> <img width="100%" alt="Untitled-2" src="https://github.com/user-attachments/assets/5ba2c404-ddc5-4b9d-9280-389f579f2527" />
+
 
 
 
