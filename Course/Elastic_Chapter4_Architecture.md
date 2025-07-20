@@ -1,4 +1,4 @@
-<img width="1000" height="300" alt="Untitled-2" src="https://github.com/user-attachments/assets/e40e001d-45fb-4403-902e-498ab1283a68" /># آموزش دنیای الستیک - قسمت چهارم قسمت های مختلف الستیک
+# آموزش دنیای الستیک - قسمت چهارم قسمت های مختلف الستیک
 
 ## اجزای اصلی Elastic Stack چیست؟
 
