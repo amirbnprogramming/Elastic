@@ -1,6 +1,4 @@
-
-
-### لاگستش Logstash 
+# آموزش دنیای الستیک - قسمت چهارم Logstash
 
 لاگستش Logstash یه ابزاره توی استک Elasticه که کارش جمع‌آوری، پردازش و ارسال داده‌هاست.
 >  خود لاگ های خام برای الستیک هم مشکل ساز هستند چون خیلی وقتا خیلی لاگ ها به دردمان نمیخورد ولی تولید میشود ... خیلی وقتا لاگ ها محتوا های شلوغی دارند و بعدا ذخیره و بازیابی آنها سخت خواهد بود.
@@ -20,9 +18,10 @@
 
 
 
+<img  width="100%" alt="logstash" src="https://github.com/user-attachments/assets/bc2d3d46-f10b-4234-82fd-a3ec2e666b9e" />
 
 
-> <img width="100%" alt="lucene" src="https://github.com/user-attachments/assets/bc0073f7-1df0-4907-a495-937aabba7db7" />
+> <img width="100%" alt="logstash" src="https://github.com/user-attachments/assets/bc0073f7-1df0-4907-a495-937aabba7db7" />
 
 
 > ابزار Logstash اومد که داده‌ها رو از هر منبعی بگیره، تمیزشون کنه و آماده‌ی استفاده توی Elasticsearch کنه.
