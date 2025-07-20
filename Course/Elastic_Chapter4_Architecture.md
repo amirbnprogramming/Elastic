@@ -1,4 +1,4 @@
-# آموزش دنیای الستیک - قسمت چهارم قسمت های مختلف الستیک
+<img width="658" height="405" alt="image" src="https://github.com/user-attachments/assets/42a223f3-a457-4d62-af9f-3204ed6eeee7" /># آموزش دنیای الستیک - قسمت چهارم قسمت های مختلف الستیک
 
 ## اجزای اصلی Elastic Stack چیست؟
 
@@ -26,7 +26,8 @@ Beats (جمع‌آوری) → Logstash (پردازش) → Elasticsearch (ذخی�
 
 > <img width="100%" alt="1_5mWqMkmUb1Q_46jMhJfrXw" src="https://github.com/user-attachments/assets/e875bd10-581f-4ee2-a433-3e54da210303" />
 
-> <img width="100%"  alt="image" src="https://github.com/user-attachments/assets/0b10018f-d28a-446c-ac5f-5e78fb39d553" />
+> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/dd80bbc4-9a83-4424-a6c5-5ced04157c55" />
+
 
 > لزوما همیشه داده ها به Logstash نمیروند بعد بروند به ElasticSearch ممکنه خیلی وقتا پیش بیاید و مستقیم از Beat به ElasticSearch بروند.
 
