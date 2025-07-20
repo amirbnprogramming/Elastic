@@ -17,6 +17,8 @@
  ۴. بخش **Beats** 
 
 ابزارهای سبک برای ارسال داده از منابع مختلف مثل سیستم‌عامل، اپلیکیشن و غیره.
+> <img width="100%" alt="0_aagE1TR9XyE3ensn" src="https://github.com/user-attachments/assets/50cee2df-213d-4bfd-bf66-6829008459cb" />
+
 
 
 ## معماری Elastic Stack:
