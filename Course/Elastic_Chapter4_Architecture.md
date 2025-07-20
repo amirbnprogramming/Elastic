@@ -24,6 +24,9 @@
 Beats (جمع‌آوری) → Logstash (پردازش) → Elasticsearch (ذخیره/تحلیل) → Kibana (نمایش)
 ```
 
+<img width="100%" alt="1_5mWqMkmUb1Q_46jMhJfrXw" src="https://github.com/user-attachments/assets/e875bd10-581f-4ee2-a433-3e54da210303" />
+
+
 
 ## لاگستش Logstash
 
