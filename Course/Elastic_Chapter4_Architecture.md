@@ -24,7 +24,11 @@
 Beats (جمع‌آوری) → Logstash (پردازش) → Elasticsearch (ذخیره/تحلیل) → Kibana (نمایش)
 ```
 
-<img width="100%" alt="1_5mWqMkmUb1Q_46jMhJfrXw" src="https://github.com/user-attachments/assets/e875bd10-581f-4ee2-a433-3e54da210303" />
+> <img width="100%" alt="1_5mWqMkmUb1Q_46jMhJfrXw" src="https://github.com/user-attachments/assets/e875bd10-581f-4ee2-a433-3e54da210303" />
+
+> <img width="100%"  alt="image" src="https://github.com/user-attachments/assets/0b10018f-d28a-446c-ac5f-5e78fb39d553" />
+
+> لزوما همیشه داده ها به Logstash نمیروند بعد بروند به ElasticSearch ممکنه خیلی وقتا پیش بیاید و مستقیم از Beat به ElasticSearch بروند.
 
 
 
