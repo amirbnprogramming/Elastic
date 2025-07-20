@@ -193,7 +193,9 @@ output {  elasticsearch {    hosts => ["http://localhost:9200"]    index => "mya
 2. **نمایش**: یه داشبورد درست می‌کنی که مثلاً یه نمودار میله‌ای نشون بده چند نفر تو هر ساعت وارد سیستم شدن.
 3. **تحلیل**: می‌تونی ببینی آیا ورودهای ناموفق (failed login) تو یه بازه زمانی خاص زیاد شدن یا نه.
 
-**مثال خروجی در Kibana**: یه نمودار میله‌ای که نشون می‌ده تو ساعت 13:00، تعداد 50 ورود موفق و 5 ورود ناموفق داشتی. اینطوری سریع می‌فهمی کجا مشکلی هست.
+**مثال خروجی در Kibana**:
+
+یه نمودار میله‌ای که نشون می‌ده تو ساعت 13:00، تعداد 50 ورود موفق و 5 ورود ناموفق داشتی. اینطوری سریع می‌فهمی کجا مشکلی هست.
 
 
 > <img width="623" height="433" alt="chart" src="https://github.com/user-attachments/assets/4e56cad6-9bd3-4c74-96ce-a9f5ca755de0" />
@@ -204,8 +206,6 @@ output {  elasticsearch {    hosts => ["http://localhost:9200"]    index => "mya
 
 > <img width="100%" alt="siemdashboard" src="https://github.com/user-attachments/assets/5c0526e4-b23d-41b8-b84c-b0b0e156bd3c" />
 
-
----
 
 
 
