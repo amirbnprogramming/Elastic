@@ -17,7 +17,6 @@
  ۴. بخش **Beats** 
 
 ابزارهای سبک برای ارسال داده از منابع مختلف مثل سیستم‌عامل، اپلیکیشن و غیره.
-> <img width="100%" alt="0_aagE1TR9XyE3ensn" src="https://github.com/user-attachments/assets/50cee2df-213d-4bfd-bf66-6829008459cb" />
 
 
 
@@ -28,7 +27,9 @@ Beats (جمع‌آوری) → Logstash (پردازش) → Elasticsearch (ذخی�
 
 > <img width="100%" alt="1_5mWqMkmUb1Q_46jMhJfrXw" src="https://github.com/user-attachments/assets/e875bd10-581f-4ee2-a433-3e54da210303" />
 
-> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/dd80bbc4-9a83-4424-a6c5-5ced04157c55" />
+> <img width="50%" alt="image" src="https://github.com/user-attachments/assets/dd80bbc4-9a83-4424-a6c5-5ced04157c55" />
+> <img width="50%" alt="0_aagE1TR9XyE3ensn" src="https://github.com/user-attachments/assets/50cee2df-213d-4bfd-bf66-6829008459cb" />
+
 
 
 > لزوما همیشه داده ها به Logstash نمیروند بعد بروند به ElasticSearch ممکنه خیلی وقتا پیش بیاید و مستقیم از Beat به ElasticSearch بروند.
