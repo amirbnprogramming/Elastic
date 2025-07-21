@@ -118,13 +118,10 @@
 > - آن اتفاقی از sky مدنظر است که او هم در داکیومنت مشترک دوم و کلمه ی بعد از blue است یعنی سوم.
 
 
-<img width='100%' height="661" alt="1_cDBHHxajpKumRkNpVXHNVA" src="https://github.com/user-attachments/assets/2c4b00c1-8af7-4ed0-8a38-92fd36879007" />
 <img width='100%' height="473" alt="Elastic-Search-Architecture-74" src="https://github.com/user-attachments/assets/908d314d-a61e-4b98-9388-da50078a26cc" />
-<img width='100%' src='https://github.com/user-attachments/assets/1c69001f-dd69-4d0b-b780-221b4a63c722' />
 <img width='100%' height="423" alt="1_tj5AFiiyEr-J8IZXu7O3VQ (1)" src="https://github.com/user-attachments/assets/35f9419f-81a2-40ea-8acf-08395b28c220" />
 <img width='100%' height="380" alt="kubernetes-elasticsearch" src="https://github.com/user-attachments/assets/c7b9132f-7f8b-48ad-ad4c-4683edd6cdc0" />
 <img width='100%' alt="1_tj5AFiiyEr-J8IZXu7O3VQ" src="https://github.com/user-attachments/assets/f1354464-e735-4f4c-9281-2642c4dbd595" />
-<img width='100%' src='https://github.com/user-attachments/assets/4ad03d56-238d-459b-8362-70d890a12711' />
 <img width='100%' src='https://github.com/user-attachments/assets/2f995453-8f7f-4b52-812e-90708df23ca1' />
 
 
@@ -143,6 +140,9 @@
 
 ### مثال ساده:
 فرض کنید Lucene یه موتور ماشین باشه—قوی و کارآمد، ولی برای استفاده‌ی روزمره به بدنه و فرمان و صندلی نیاز داره. Elasticsearch همون ماشینه که موتور Lucene رو داره و آماده‌ی رانندگیه.
+
+> <img width='100%' height="661" alt="1_cDBHHxajpKumRkNpVXHNVA" src="https://github.com/user-attachments/assets/2c4b00c1-8af7-4ed0-8a38-92fd36879007" />
+
 
 ---
 ## سلسله مراتب داده‌ها
@@ -191,6 +191,9 @@ pie
     "رپلیکای شارد ۱" : 25
     "رپلیکای شارد ۲" : 25
 ```
+
+> <img width='100%' src='https://github.com/user-attachments/assets/1c69001f-dd69-4d0b-b780-221b4a63c722' />
+
 ---
 
 ## نوع داده Data Type
@@ -220,6 +223,9 @@ pie
 ## کلاستر
 - یه گروه از نودها که با هم کار می‌کنن. مثل یه تیم کاری که همه باهم یه پروژه رو جلو می‌برن.
 - **مثال**: یه کلاستر با ۵ نود می‌تونه ۱ ترابایت داده رو مدیریت کنه.
+
+> <img width='100%' src='https://github.com/user-attachments/assets/4ad03d56-238d-459b-8362-70d890a12711' />
+
 
 ---
 
