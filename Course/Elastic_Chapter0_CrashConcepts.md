@@ -151,7 +151,6 @@ graph TD
 Index (مثل یک دیتابیس) → Type (جدول - در نسخه‌های جدید حذف شد) → Document (رکورد) → Field (ستون)
 
 
-> <img width='100%' alt="image" src="https://github.com/user-attachments/assets/7bc37e2f-19e9-408a-b389-8008da0d7bb7" />
 
 
 
