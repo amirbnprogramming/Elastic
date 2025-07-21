@@ -136,7 +136,7 @@
 ### مثال ساده:
 فرض کنید Lucene یه موتور ماشین باشه—قوی و کارآمد، ولی برای استفاده‌ی روزمره به بدنه و فرمان و صندلی نیاز داره. Elasticsearch همون ماشینه که موتور Lucene رو داره و آماده‌ی رانندگیه.
 
-> <img width='100%' height="661" alt="1_cDBHHxajpKumRkNpVXHNVA" src="https://github.com/user-attachments/assets/2c4b00c1-8af7-4ed0-8a38-92fd36879007" />
+> <img width='100%' alt="1_cDBHHxajpKumRkNpVXHNVA" src="https://github.com/user-attachments/assets/2c4b00c1-8af7-4ed0-8a38-92fd36879007" />
 
 
 ---
@@ -149,6 +149,9 @@ graph TD
     C --> E[Document]
 ```
 Index (مثل یک دیتابیس) → Type (جدول - در نسخه‌های جدید حذف شد) → Document (رکورد) → Field (ستون)
+
+
+> <img width='100%' alt="image" src="https://github.com/user-attachments/assets/7bc37e2f-19e9-408a-b389-8008da0d7bb7" />
 
 
 
