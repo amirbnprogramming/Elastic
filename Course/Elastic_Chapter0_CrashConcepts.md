@@ -230,8 +230,6 @@ pie
   - **نوع مدیر Master Node**: تیم رو مدیریت می‌کنه.
 - **مثال**: اگه ۳ نود داشته باشید، داده‌ها بینشون پخش می‌شه.
 
-> <img width='100%' src="https://github.com/user-attachments/assets/5fce8741-6b1f-40c3-abd5-dec4cd7e7d54" />
-
 
 > <img width='100%' src="https://github.com/user-attachments/assets/7c66922d-fa5a-47b4-b2cd-d925a2fb1ca5" />
 
