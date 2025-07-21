@@ -152,10 +152,9 @@ graph TD
     A --> C[Shard]
     B --> D[Document]
     C --> E[Document]
-
+```
 Index (مثل یک دیتابیس) → Type (جدول - در نسخه‌های جدید حذف شد) → Document (رکورد) → Field (ستون)
 
-```
 
 
 ---
