@@ -118,12 +118,7 @@
 > - آن اتفاقی از sky مدنظر است که او هم در داکیومنت مشترک دوم و کلمه ی بعد از blue است یعنی سوم.
 
 
-<img width='100%' height="473" alt="Elastic-Search-Architecture-74" src="https://github.com/user-attachments/assets/908d314d-a61e-4b98-9388-da50078a26cc" />
-<img width='100%' height="423" alt="1_tj5AFiiyEr-J8IZXu7O3VQ (1)" src="https://github.com/user-attachments/assets/35f9419f-81a2-40ea-8acf-08395b28c220" />
-<img width='100%' height="380" alt="kubernetes-elasticsearch" src="https://github.com/user-attachments/assets/c7b9132f-7f8b-48ad-ad4c-4683edd6cdc0" />
-<img width='100%' alt="1_tj5AFiiyEr-J8IZXu7O3VQ" src="https://github.com/user-attachments/assets/f1354464-e735-4f4c-9281-2642c4dbd595" />
-<img width='100%' src='https://github.com/user-attachments/assets/2f995453-8f7f-4b52-812e-90708df23ca1' />
-
+---
 
 
 ## آپاچی لوسین
@@ -198,16 +193,19 @@ pie
 ## نوع داده Data Type
 - مشخص می‌کنه هر فیلد توی داکیومنت چه نوعیه. مثل اینه که بگید این ستون توی دفترچه‌تون عدد باشه یا متن.
 - **انواع رایج**:
-  - **text**: برای متن‌های بلند که می‌خواهید جستجو کنید (مثل "پیام خطا").
-  - **keyword**: برای متن‌های کوتاه که دقیق باید پیدا بشن (مثل "کد کاربر").
-  - **date**: برای تاریخ و ساعت.
-  - **number**: برای اعداد.
+  - نوع **text**: برای متن‌های بلند که می‌خواهید جستجو کنید (مثل "پیام خطا").
+  - نوع **keyword**: برای متن‌های کوتاه که دقیق باید پیدا بشن (مثل "کد کاربر").
+  - نوع **date**: برای تاریخ و ساعت.
+  - نوع **number**: برای اعداد.
 - **مثال**: توی داکیومنت بالا، `time` یه date‌ـه و `message` یه text.
 ---
 
 ## نگاشت Mapping
 - یه دستورالعمل که می‌گه هر فیلد توی ایندکس چه نوع داده‌ایه و چطور ذخیره بشه. مثل یه نقشه‌ی راه برای Elastic.
 - **مثال**: می‌تونید بگید فیلد `message` به صورت text باشه و کلماتش جدا جدا ذخیره بشن برای جستجوی بهتر.
+
+> <img width='100%' src="https://github.com/user-attachments/assets/31fe36ff-2659-4c25-8631-ba63b8b77a5a" />
+
 
 ---
 
@@ -217,6 +215,9 @@ pie
   - **نوع داده Data Node**: داده‌ها رو نگه می‌داره.
   - **نوع مدیر Master Node**: تیم رو مدیریت می‌کنه.
 - **مثال**: اگه ۳ نود داشته باشید، داده‌ها بینشون پخش می‌شه.
+
+><img width='100%' src="https://github.com/user-attachments/assets/7c66922d-fa5a-47b4-b2cd-d925a2fb1ca5" />
+
 ---
 
 ## کلاستر
